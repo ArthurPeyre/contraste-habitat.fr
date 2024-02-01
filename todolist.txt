@@ -1,0 +1,16 @@
+Nom de domaine : contraste-habitat.fr
+
+Type de site : Site vitrine
+objectif du site : Mettre en avant les différents logements de la maison partagée.
+
+Nombre de pages : 3
+Libellés des pages : "Accueil" | "Qui sommes-nous ?" | "Nous contacter"
+
+Détails sur le site :
+	- Carroussel
+	- Boîte mail professionnelle (contraste.habitat@orange.fr)
+
+Sites concurents :
+	- CetteFamille
+	- Domitys
+	- Résidence service séniors
