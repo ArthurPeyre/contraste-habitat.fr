@@ -15,7 +15,8 @@
                     35 avenue du Maréchal FOCH<br>
                     31800 Saint-Gaudens<br>
                     contact@contraste-habitat.fr<br>
-                    05 62 00 54 29
+                    05 62 00 54 29<br/>
+                    06 63 00 23 47
                 </p>
                 <a href="contact.php" class="bold">Formulaire de contact</a>
             </div>

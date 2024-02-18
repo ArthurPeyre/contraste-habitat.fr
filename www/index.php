@@ -107,7 +107,7 @@
         <div class="content">
             <div class="title grid">
                 <h1>Découvrez le confort de vivre ensemble !</h1>
-                <h3>L'équipe de Contraste Habitat vous invite dans un logement conçu pour votre bonheur</h3>
+                <h3>L'équipe de Contraste Habitat propose des logements conçus pour le plaisir de vivre et, celui de partager.</h3>
                 <a href="#1" class="btn">En savoir plus</a>
             </div>
         </div>
@@ -232,7 +232,7 @@
                 </div>
                 <p>35 avenue du Maréchal FOCH</br>31800 Saint-Gaudens</p>
                 <p>contact@contraste-habitat.fr</p>
-                <p>05 62 00 54 29</p>
+                <p>05 62 00 54 29<br/>06 63 00 23 47</p>
                 <a href="contact.php" class="btn">Contactez-nous</a>
             </div>
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2912.928946730951!2d0.7150186756268718!3d43.10600808765024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a8fc885f75e5bd%3A0x6d1aa50daedd8726!2s35%20Av.%20Mar%C3%A9chal%20Foch%2C%2031800%20Saint-Gaudens!5e0!3m2!1sfr!2sfr!4v1703595805378!5m2!1sfr!2sfr" width="700" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -259,10 +259,10 @@
                 <div class="text">
                     <div class="title">
                         <h2>Retarder la perte d'autonomie !<div class="overline"></div></h2>
-                        <h3>Ne laissez pas la solitude vous gagner</h3>
+                        <h3>Restez acteur de votre vie</h3>
                     </div>
                     <p>Impliquez-vous dans la gestion de la vie quotidienne et dans les tâches qui y sont liées.</p>
-                    <p>Repoussez votre dépendance en favorisant l’autonomie et l’estime de soi grâce à des activités sociaux culturelles et sportives adaptées.</p>
+                    <p>Nos intervenants vous accompagnerons pour vous aidez à repousser votre dépendance en favorisant les actes autonomes, tout en respectant vos choix. Nous vous proposerons des activités adaptées à votre (vos) problématique(s), vos besoins et vos envies.</p>
                 </div>
                 <img src="Images/play.jpg" alt="">
             </div>
@@ -274,8 +274,8 @@
                         <h2>De l'entraide en toute sécurité<div class="overline"></div></h2>
                         <h3>Un nouveau départ !</h3>
                     </div>
-                    <p>Cette colocation vous permet de réaliser un nouveau projet de vie, basé sur une entraide mutuelle.<br/>Elle apporte un sentiment de sécurité non seulement pour vous mais aussi pour vos proches, en favorisant une ambiance familiale.</p>
-                    <p>Cette forme d’hébergement, moins onéreuse que d’autres structures existantes, vous permet de financer vous même les prestations, en limitant, voire évitant une contribution financière de vos proches.</p>
+                    <p>Ce type d’hébergement vous permet de réaliser un nouveau projet de vie, basé sur une entraide mutuelle dans un cadre bienveillant, harmonieux et sécurisé.<br/>Vous n’êtes pas isolé(e), ce qui apporte un sentiment de sécurité non seulement pour vous, mais aussi pour vos proches, en favorisant une ambiance familiale.</p>
+                    <p>Cette forme d’hébergement vous permet de financer vous-même les prestations, en limitant, voire évitant une contribution financière de vos proches.</p>
                 </div>
                 <img src="Images/aide.jpg" alt="">
             </div>
@@ -287,7 +287,7 @@
             <div class="card grid shadow">
                 <div class="title">
                     <h2>Prêt à débuter une nouvelle vie communautaire ?</h2>
-                    <h3>Rejoignez notre famille !</h3>
+                    <h3>En savoir plus !</h3>
                 </div>
                 <a href="contact.php" class="btn">Contactez-nous</a>
             </div>
@@ -318,15 +318,15 @@
                         break;
 
                     case "T1 solo":
-                        image1.setAttribute('src', 'Images/T1_solo_img1.jpeg');
+                        image1.setAttribute('src', 'Images/T1_solo_img1.jpg');
                         image2.setAttribute('src', 'Images/T1_solo_img2.jpeg');
                         image3.setAttribute('src', 'Images/T1_solo_img3.jpeg');
                         break;
                     
                     case "T1 duo":
                         image1.setAttribute('src', 'Images/T1_duo_img1.jpeg');
-                        image2.setAttribute('src', 'Images/T1_duo_img2.jpeg');
-                        image3.setAttribute('src', 'Images/T1_duo_img3.jpeg');
+                        image2.setAttribute('src', 'Images/T1_duo_img2.jpg');
+                        image3.setAttribute('src', 'Images/T1_duo_img3.jpg');
                         break;
                 
                     default:

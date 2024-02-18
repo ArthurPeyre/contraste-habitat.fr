@@ -68,9 +68,6 @@ nav {
 nav .content.flexbox, #menu .content {
     gap: var(--text-gap);
 }
-/* nav li:first-child {
-    width: fit-content;
-} */
 nav li:first-child img {
     height: 65px;
     padding-right: 5px;
@@ -78,6 +75,7 @@ nav li:first-child img {
 nav li:first-child span {
     font-size: 1.3em;
     text-transform: uppercase;
+    text-align: right;
 }
 nav li:last-child {
     display: none;
