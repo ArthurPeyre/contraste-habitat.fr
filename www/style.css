@@ -71,6 +71,7 @@ nav .content.flexbox, #menu .content {
 nav li:first-child img {
     height: 65px;
     padding-right: 5px;
+    border-radius: 0;
 }
 nav li:first-child span {
     font-size: 1.3em;

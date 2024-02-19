@@ -47,9 +47,9 @@
                         <h3>Nourrir la réflexion pour un mieux-vivre collectif</h3>
                     </div>
                     <p>
-                        Proche et attentif à nos ainés, nous avons voulu construire un projet à dimension familial où chacun à sa place.<br/>
-                        Chacun à droit à la parole et peu faire force de proposition.<br/>
-                        Chacun a droit à un accompagnement personnalisé et adapté afin de lutter contre la perte d’autonomie.<br/>
+                        Proche et attentif à nos ainés, nous avons voulu construire un projet à dimension familiale où chacun à sa place.<br/>
+                        Chacun à droit à la parole et peut faire force de proposition.<br/>
+                        Chacun à droit à un accompagnement personnalisé et adapté afin de lutter contre la perte d’autonomie.<br/>
                         Chacun à un « chez-soi », un appartement où il peut recevoir ses proches, ses amis, les intervenants extérieurs de son choix pour les soins infirmiers, esthétiques, ... . L’accueil des proches et amis ne se limite pas à l’appartement, il est aussi possible de recevoir dans les parties communes en intérieur comme en extérieur.
                     </p>
                 </div>
@@ -79,14 +79,14 @@
                     <p>
                         La recherche du "bien vieillir chez soi" nécessite un logement adapté aux besoins individuels et un accès à des services.<br/>
                         Les appartements ont été conçus pour proposer des espaces privatifs accueillants, fonctionnels et modulables qui s’inscrivent dans un grand logement proposant de larges espaces pour se retrouver et partager avec d’autres.<br/>
-                        Nous proposons toute une gamme de services, qui vous permettent de répondre à vos besoins.
+                        Nous proposons toute une gamme de services, qui nous permettent de répondre à vos besoins.
                     </p>
                     <p>
                         La connexion entre les personnes est ouverte à l’intérieur, mais aussi vers à l’extérieur.<br/>
-                        Il est crucial de maintenir une vie sociale et rester intégrer dans son quartier, sa commune ou plus largement son territoire afin d’éviter l’isolement et d’accroitre la dépendance. Pour cela la « Villa Saint-Gau » est idéalement situé à proximité immédiate d’établissements de soins, de pharmacies, de commerces et d’espaces socio-culturels.
+                        Il est crucial de maintenir une vie sociale et rester intégrer dans son quartier, sa commune ou plus largement son territoire afin d’éviter l’isolement et d’accroitre la dépendance. Pour cela la « Villa Saint-Gau » est idéalement située à proximité immédiate d’établissements de soins, de pharmacies, de commerces et d’espaces socio-culturels.
                     </p>
                     <p>Cette connexion est aussi virtuelle. L’internet est accessible à tous dans tous les appartements et les espaces communs.</p>
-                    <p>Le lien avec le coordonnateur est permanant.</p>
+                    <p>Le lien avec le coordonnateur est permanent.</p>
                 </div>
                 <img src="Images/Groupe De Personnes âgées Se Liant Au Parc _ Photo Premium 1.png" alt="">
             </div>
